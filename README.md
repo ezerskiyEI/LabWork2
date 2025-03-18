@@ -1,6 +1,6 @@
 Описание 2 лабораторной работы
 
-
+https://github.com/ezerskiyEI/LabWork2/issues/1#issue-2928166933
 
  Основные изменения во 2 лабораторной работе:
  Создал и подключил БД PostgreSQL
