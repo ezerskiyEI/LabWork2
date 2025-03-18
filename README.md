@@ -1,7 +1,9 @@
 Описание 2 лабораторной работы
 
-![папич-артас](https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-%D0%B0%D1%80%D1%82%D0%B0%D1%81.gif)  ![Еж](https://github.com/ezerskiyEI/LabWork2/blob/main/%D0%B5%D0%B6.gif)
- 
+<p float="left">
+    <img src="https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-%D0%B0%D1%80%D1%82%D0%B0%D1%81.gif" width="200" />
+    <img src="https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%B5%D0%B6.gif" width="200" />
+</p>
  
  Основные изменения во 2 лабораторной работе:
  Создал и подключил БД PostgreSQL
