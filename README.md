@@ -1,9 +1,6 @@
 Описание 2 лабораторной работы
 
-<p float="left">
-    <img src="https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-%D0%B0%D1%80%D1%82%D0%B0%D1%81.gif" width="200" />
-    <img src="https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%B5%D0%B6.gif" width="200" />
-</p>
+![папич-артас](https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-%D0%B0%D1%80%D1%82%D0%B0%D1%81.gif)
  
  Основные изменения во 2 лабораторной работе:
  Создал и подключил БД PostgreSQL
@@ -18,3 +15,5 @@
  Добавил репозиторий CarInfoRepository, который позволяет находить машину по VIN
  Метод анализа текста теперь ищет VIN в базе данных, а не просто проверяет текст
  Удалил лишние классы и сервисы, которые дублировали функциональность
+
+![еж](https://github.com/ezerskiyEI/LabWork2/raw/main/%D0%B5%D0%B6.gif)
